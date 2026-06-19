@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ancrabloto.github.io/zhs-mksports-com/sitemap.xml
